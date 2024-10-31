@@ -1,429 +1,72 @@
-<!DOCTYPE html><html class="wide" xml:lang="pt" lang="pt"><head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-27132658-1"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-27132658-1');
-    </script><title>Arena Corinthians - Estádio - Soccer Wiki: para os fãs, dos fãs</title><meta charset="utf-8"><meta name="description" content="Editar Arena Corinthians Detalhes no Soccer Wiki"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="format-detection" content="telephone=no"/><meta name="HandheldFriendly" content="True"/><meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"><link rel="dns-prefetch" href="https://fonts.gstatic.com" /><link rel="dns-prefetch" href="https://fonts.googleapis.com" /><link rel="dns-prefetch" href="https://ajax.googleapis.com" /><link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" /><link rel="dns-prefetch" href="https://www.google-analytics.com" /><link rel="dns-prefetch" href="https://cdn.datatables.net" /><link rel="dns-prefetch" href="https://cdn.soccerwiki.org" /><link rel="dns-prefetch" href="https://cdn.jsdelivr.net" /><link rel="preload" href="/images/soccer-wiki-logo90x90.png" as="image" /><link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.min.css" as="style" /><link rel="preload" href="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js?display=swap" as="script" /><link rel="preload" href="/js/core-select2-update.min.js" as="script" /><link rel="preload" href="/js/script.min.js" as="script" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><link rel="preconnect" href="https://fonts.googleapis.com" crossorigin /><link rel="preconnect" href="https://ajax.googleapis.com" crossorigin /><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin /><link rel="preconnect" href="https://www.google-analytics.com" crossorigin /><link rel="preconnect" href="https://cdn.datatables.net" crossorigin /><link rel="preconnect" href="https://cdn.soccerwiki.org" crossorigin /><link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin /><meta property="og:url" content="https://pt-br.soccerwiki.org/stadium.php?stadiumdid=3369"/><meta property="og:description" content="Editar Arena Corinthians Detalhes no Soccer Wiki"/><meta property="og:image" content="https://cdn.soccerwiki.org/images/assets/sw_og.jpg"/><meta property="og:type" content="website"/><meta property="og:site_name" content="Soccer Wiki"/><meta name="twitter:site" content="Soccer Wiki"/><meta name="twitter:url" content="https://pt-br.soccerwiki.org/stadium.php?stadiumdid=3369"/><meta name="twitter:card" content="summary"/><meta name="twitter:dnt" content="on"><link rel="shortcut icon" href="/favicon-32x32.png" type="image/png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png?v=1"/><link rel="apple-touch-icon" sizes="167x167" href="/apple-touch-icon-167x167.png?v=1"/><link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png?v=1"/><link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png?v=1"/><link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png?v=1"/><link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png?v=1"/><link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png?v=1"/><link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png?v=1"/><link rel="canonical" href="https://pt-br.soccerwiki.org/stadium.php?stadiumdid=3369"/><link rel="alternate" href="https://en.soccerwiki.org/" hreflang="x-default"/><link rel="alternate" href="https://en.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="en"/><link rel="alternate" href="https://bs-ba.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="bs"/><link rel="alternate" href="https://cs-cz.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="cs"/><link rel="alternate" href="https://de.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="de"/><link rel="alternate" href="https://el-gr.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="el"/><link rel="alternate" href="https://es.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="es"/><link rel="alternate" href="https://fr.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="fr"/><link rel="alternate" href="https://hr-hr.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="hr"/><link rel="alternate" href="https://id-id.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="id"/><link rel="alternate" href="https://it.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="it"/><link rel="alternate" href="https://hu-hu.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="hu"/><link rel="alternate" href="https://nl.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="nl"/><link rel="alternate" href="https://pl-pl.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="pl"/><link rel="alternate" href="https://pt.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="pt"/><link rel="alternate" href="https://pt-br.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="pt-br"/><link rel="alternate" href="https://ru-ru.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="ru"/><link rel="alternate" href="https://ro-ro.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="ro"/><link rel="alternate" href="https://sk-sk.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="sk"/><link rel="alternate" href="https://sl-si.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="sl"/><link rel="alternate" href="https://sr-rs.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="sr"/><link rel="alternate" href="https://tr-tr.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="tr"/><link rel="alternate" href="https://uk-ua.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="uk"/><link rel="alternate" href="https://ar.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="ar"/><link rel="alternate" href="https://vi.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="vi"/><link rel="alternate" href="https://zh.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="zh"/><link rel="alternate" href="https://zh-tw.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="zh-tw"/><link rel="alternate" href="https://ja.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="ja"/><link rel="alternate" href="https://ko.soccerwiki.org/stadium.php?stadiumdid=3369" hreflang="ko"/><link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet"/><style>
-@media screen and (max-width: 767px) { #headernav, #headernav .rd-navbar-panel { height: 56px; } input, select, textarea { font-size: 16px !important; /* Stop zoom on mobile browsers */ } .brand img { max-width: 170px !important; max-height: 170px !important; } }
-@media (max-width: 575px) { .rd-navbar-collapse { height: 93px; max-height: 93px } }
-@media (min-width: 576px) { .rd-navbar-panel { max-height: 60px; } .owl-carousel-navbar { max-height: 34px; } .owl-carousel-inline-outer-1 .owl-carousel-inline-wrap { max-height: 34px; } }
-@media (min-width: 768px) { .player-info-main { flex-basis: auto !important; } }
-.player-info-main { width: 100%; }
-.dataTables_wrapper .row { margin-top: 5px !important; /* Fix Datatables row margin-top */ }
-.player-info-figure .squad-number-footer { position: absolute;left: 0;top: 0;display: inline-block;min-width: 22px;padding: 0;font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;font-size: 0.8rem;letter-spacing: 0.123em;color: #fff;text-align: center;background: #333333;border: 1px solid #fff;border-radius: .25rem;z-index: 1;cursor: help; }
-.player-team-formation-figure { position: relative;display: flex;align-items: flex-end;justify-content: center;background: transparent;overflow: hidden;text-align: center; }
-.player-team-formation-figure .squad-number-team-formation { position: absolute;left: 0;top: 0;display: inline-block;min-width: 22px;padding: 0;font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;font-size: 0.9rem;letter-spacing: 0.123em;color: #000;text-align: center;background: #fff;border: 1px solid darkgreen;border-radius: .25rem;z-index: 1;cursor: help; }
-.position-footer { cursor: help; }
-footer .divider-small::after {width:100%}
-.fa.fa-twitter {font-family:sans-serif}
-.fa.fa-twitter::before {content:"𝕏"}
-</style>
-<link rel="preload" href="/css/style.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" id="main-styles-link"><noscript><link rel="stylesheet" href="/css/style.min.css"></noscript><link rel="preload" href="/css/custom-style.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" id="main-styles-link"><noscript><link rel="stylesheet" href="/css/custom-style.min.css"></noscript><link rel="preload" href="/css/fonts.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="/css/fonts.min.css"></noscript><link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/css/flag-icon.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/css/flag-icon.css"></noscript><link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.20/css/dataTables.bootstrap4.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.20/css/dataTables.bootstrap4.min.css"></noscript><link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css"></noscript><script defer data-cfasync="false" src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js?display=swap"></script><script defer data-cfasync="false">WebFontConfig = { google: { families: ['Kanit:300,400,500,500i,600,900', 'Roboto:400,900'] } }; </script><script defer data-cfasync="false" src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.full.min.js"></script><script data-cfasync="false">
-/*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
-(function( w ){
-    "use strict";
-    // rel=preload support test
-    if( !w.loadCSS ){
-        w.loadCSS = function(){};
-    }
-    // define on the loadCSS obj
-    var rp = loadCSS.relpreload = {};
-    // rel=preload feature support test
-    // runs once and returns a function for compat purposes
-    rp.support = (function(){
-        var ret;
-        try {
-            ret = w.document.createElement( "link" ).relList.supports( "preload" );
-        } catch (e) {
-            ret = false;
-        }
-        return function(){
-            return ret;
-        };
-    })();
-
-    // if preload isn't supported, get an asynchronous load by using a non-matching media attribute
-    // then change that media back to its intended value on load
-    rp.bindMediaToggle = function( link ){
-        // remember existing media attr for ultimate state, or default to 'all'
-        var finalMedia = link.media || "all";
-
-        function enableStylesheet(){
-            // unbind listeners
-            if( link.addEventListener ){
-                link.removeEventListener( "load", enableStylesheet );
-            } else if( link.attachEvent ){
-                link.detachEvent( "onload", enableStylesheet );
-            }
-            link.setAttribute( "onload", null );
-            link.media = finalMedia;
-        }
-
-        // bind load handlers to enable media
-        if( link.addEventListener ){
-            link.addEventListener( "load", enableStylesheet );
-        } else if( link.attachEvent ){
-            link.attachEvent( "onload", enableStylesheet );
-        }
-
-        // Set rel and non-applicable media type to start an async request
-        // note: timeout allows this to happen async to let rendering continue in IE
-        setTimeout(function(){
-            link.rel = "stylesheet";
-            link.media = "only x";
-        });
-        // also enable media after 3 seconds,
-        // which will catch very old browsers (android 2.x, old firefox) that don't support onload on link
-        setTimeout( enableStylesheet, 3000 );
-    };
-
-    // loop through link elements in DOM
-    rp.poly = function(){
-        // double check this to prevent external calls from running
-        if( rp.support() ){
-            return;
-        }
-        var links = w.document.getElementsByTagName( "link" );
-        for( var i = 0; i < links.length; i++ ){
-            var link = links[ i ];
-            // qualify links to those with rel=preload and as=style attrs
-            if( link.rel === "preload" && link.getAttribute( "as" ) === "style" && !link.getAttribute( "data-loadcss" ) ){
-                // prevent rerunning on link
-                link.setAttribute( "data-loadcss", true );
-                // bind listeners to toggle media back
-                rp.bindMediaToggle( link );
-            }
-        }
-    };
-
-    // if unsupported, run the polyfill
-    if( !rp.support() ){
-        // run once at least
-        rp.poly();
-
-        // rerun poly on an interval until onload
-        var run = w.setInterval( rp.poly, 500 );
-        if( w.addEventListener ){
-            w.addEventListener( "load", function(){
-                rp.poly();
-                w.clearInterval( run );
-            } );
-        } else if( w.attachEvent ){
-            w.attachEvent( "onload", function(){
-                rp.poly();
-                w.clearInterval( run );
-            } );
-        }
-    }
-
-    // commonjs
-    if( typeof exports !== "undefined" ){
-        exports.loadCSS = loadCSS;
-    }
-    else {
-        w.loadCSS = loadCSS;
-    }
-}( typeof global !== "undefined" ? global : this ) );
-</script>
-<script></script><!-- here to ensure a non-blocking load still occurs in IE and Edge, even if scripts follow loadCSS in head -->
-<script data-cfasync="false" type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Soccer Wiki",
-  "url": "https://en.soccerwiki.org",
-  "logo": "https://en.soccerwiki.org/images/soccer-wiki-logo170x170.png",
-  "sameAs": [
-    "https://www.facebook.com/InvinciblesGames",
-    "https://twitter.com/InvncblsGames",
-    "https://www.instagram.com/invinciblesgames",
-    "https://www.youtube.com/c/soccermanager",
-    "https://www.linkedin.com/company/invincibles-studio-ltd",
-    "https://en.soccerwiki.org"
-  ]
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-</script><script data-cfasync="false" type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "WebSite",
-  "name": "Soccer Wiki",
-  "url": "https://pt-br.soccerwiki.org",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://pt-br.soccerwiki.org/search.php?q={search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
+
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #f4f4f4;
 }
-</script></head><body>    <!-- Page-->
-    <div class="page">
-      <!-- Page Header-->
-      <header class="section page-header rd-navbar-dark">
-                  <!-- RD Navbar-->
-        <div id="headernav" class="rd-navbar-wrap" style="visibility:hidden;max-height:203px">
-          <nav class="rd-navbar rd-navbar-modern" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-fixed" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="114px" data-xl-stick-up-offset="114px" data-xxl-stick-up-offset="114px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
-            <div class="rd-navbar-panel">
-              <!-- RD Navbar Toggle-->
-              <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-main"><span></span></button>
-              <a href="/"><span class="d-xl-none"><img src="/images/soccer-wiki-logo48x48.png" width="48" height="48" alt="Soccer Wiki" style="height:48px;max-height:48px;width:48px;max-width:48px;"></span></a>
-              <!-- RD Navbar Panellist-->
-              <div class="rd-navbar-panel-inner container pl-0 pr-0">
-                <div class="rd-navbar-collapse rd-navbar-panel-item">
-                  <!-- Owl Carousel-->
-                  <div class="owl-carousel-navbar owl-carousel-inline-outer-1">
-                    <div class="owl-inline-nav">
-                      <p class="heading-7"></p>
-                      <button class="owl-arrow owl-arrow-prev"></button>
-                      <button class="owl-arrow owl-arrow-next"></button>
-                    </div>
-                    <div class="owl-carousel-inline-wrap">
-                      <div class="owl-carousel owl-carousel-inline letter-spacing-075" data-items="1" data-autoplay="true" data-autoplay-speed="3200" data-dots="false" data-nav="true" data-stage-padding="0" data-loop="true" data-margin="10" data-mouse-drag="false" data-touch-drag="false" data-nav-custom=".owl-carousel-navbar"><p><a href="/player.php" class="font-weight-bold text-white">Jogadores: Melhores tendências</a></p><p><a href="https://sm25.sng.link/De5re/kffy/aiw6" class="font-weight-bold text-white" target="_blank" data-google-interstitial="false"><img class="lozad" src="https://cdn.soccerwiki.org/images/spacer.gif" data-src="https://cdn.soccerwiki.org/images/assets/sm25_app_icon150x150_transparent.png" width="24" height="24" alt="SOCCER MANAGER 2025"> SOCCER MANAGER 2025 - Descarregar</a></p><p><a href="/squad.php" class="font-weight-bold text-white">Clubes</a></p><p><a href="/changes.php" class="font-weight-bold text-white">Alterações Recentes</a></p><p><a href="/vote.php" class="font-weight-bold text-white">Vote para alterações de dados</a></p><p><a href="/league.php" class="font-weight-bold text-white">Competições / Ligas Populares</a></p></div>
-                    </div>
-                  </div>
-                </div>
-                <div class="rd-navbar-panel-item rd-navbar-panel-list">
-                  <ul class="list-inline list-inline-middle list-inline-sm">
-                    <li>
-                      <ul class="list-inline"> <!-- list-inline-bordered -->
-                        <li class="mt-0 pr-2"><a class="d-none d-sm-inline icon icon-xs icon-light fa fa-facebook-official fa-lg" href="https://www.facebook.com/InvinciblesGames" target="_blank" title="Facebook: @InvinciblesGames"></a></li>
-                        <li class="mt-0 pr-2"><a class="d-none d-sm-inline icon icon-xs icon-light fa fa-twitter fa-lg" href="https://twitter.com/InvncblsGames" target="_blank" title="X (Twitter): @InvncblsGames"></a></li>
-                        <li class="mt-0 pr-4"><a class="d-none d-sm-inline icon icon-xs icon-light fa fa-instagram fa-lg" href="https://www.instagram.com/invinciblesgames" target="_blank" title="Instagram: @invinciblesgames"></a></li><li class="mt-0 pr-2"><a class="link link-icon link-icon-left link-classic" href="/signin" data-google-interstitial="false"><span class="d-none d-sm-inline icon fl-bigmug-line-login12"></span>Iniciar sessão</a></li><li class="mt-0 pr-2"><a class="link link-icon link-icon-left link-classic" href="/signup" data-google-interstitial="false"><span class="d-none d-sm-inline icon fl-bigmug-line-user144"></span>Cadastrar-se</a></li></ul>
-                    </li>
-                  </ul>
-                </div>
-                <div class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1 ml-0" data-rd-navbar-toggle=".rd-navbar-collapse" style="width:35px;height:35px"><span></span></div>
-              </div>
-            </div>            <div class="rd-navbar-main rd-navbar-dark">
-              <div class="rd-navbar-main-container container">
-                <!-- RD Navbar Brand-->
-                <div class="rd-navbar-brand"><a class="brand" href="/"><img class="brand-logo brand-logo-dark" src="/images/soccer-wiki-logo90x90.png" width="90" height="90" alt="Soccer Wiki: para os fãs, dos fãs" style="max-width:90px;max-height:90px;" /><img class="brand-logo brand-logo-light" src="/images/soccer-wiki-logo90x90.png" width="90" height="90" alt="Soccer Wiki: para os fãs, dos fãs" style="max-width:90px;max-height:90px;" /></a></div>
-                <!-- RD Navbar Nav-->
-                                <ul class="rd-navbar-nav">
-                                  <li class="rd-nav-item"><a class="rd-nav-link" href="/">Início</a></li>
-                                  <li class="rd-nav-item"><a class="rd-nav-link" href="/player.php">Jogadores</a>
-                                    <ul class="rd-menu rd-navbar-dropdown">
-                                      <li class="rd-dropdown-item"><a href="/search/player">Procura avançada de jogador</a></li>
-                                      <li class="rd-dropdown-item"><a href="/search/player?minrating=90&maxrating=99">Melhores Jogadores</a></li>
-                                      <li class="rd-dropdown-item"><a href="/search/player?freeagent=1">Jogadores Livres</a></li>
-                                      <li class="rd-dropdown-item"><a href="/player.php">Melhores tendências</a></li>
-                                      <li class="rd-dropdown-item"><a href="/vote.php?action=playerdata">NOVO(S) Jogadores</a></li>
-                                      <li class="rd-dropdown-item"><a href="/vote.php?action=playerdata&subaction=edit">Editado Jogadores</a></li>
-                                      <li class="rd-dropdown-item"><a href="/vote.php?action=playerimages">Imagens de Jogadores</a></li>
-                                    </ul>
-                                  </li>
-                                  <li class="rd-nav-item"><a class="rd-nav-link" href="/squad.php">Clubes</a>
-                                    <ul class="rd-menu rd-navbar-dropdown">
-                                      <li class="rd-dropdown-item"><a href="/squad.php">Clubes</a></li>
-                                      <li class="rd-dropdown-item"><a href="/country.php">Países Populares</a></li>
-                                    </ul>
-                                  </li>
-                                  <li class="rd-nav-item"><a class="rd-nav-link" href="/league.php">Competições</a>
-                                    <ul class="rd-menu rd-navbar-dropdown">
-                                      <li class="rd-dropdown-item"><a href="/league.php">Ligas Populares</a></li>
-                                      <li class="rd-dropdown-item"><a href="/cup.php">Taças Populares</a></li>
-                                    </ul>
-                                  </li>
-                                  <li class="rd-nav-item"><a class="rd-nav-link" href="/changes.php">Alterações Recentes</a>
-                                    <ul class="rd-menu rd-navbar-dropdown">
-                                      <li class="rd-dropdown-item"><a href="/changes.php">Alterações Recentes</a></li>
-                                      <li class="rd-dropdown-item"><a href="/vote.php">Vote para alterações de dados</a></li>
-                                      <li class="rd-dropdown-item"><a href="/add.php">Adicionar Mudança de Dados</a></li>
-                                    </ul>
-                                  </li>
-                                  <li class="rd-nav-item" style="display:none"><a class="rd-nav-link" href="/vote.php"><span class="mdi mdi-poll" title="Vote para alterações de dados"></span><span class="d-xl-none pl-1"> Vote para alterações de dados</span></a></li>
-                                  <li class="rd-nav-item"><a class="rd-nav-link" href="/download.php"><span class="fa fa-cloud-download fa-lg fa-fw" title="Download Dados do Soccer Wiki"></span><span class="d-xl-none pl-1"> Downloads</span></a></li>
-                                  <li class="d-xl-none rd-nav-item"><a class="rd-nav-link link-icon link-icon-left link-classic" href="/signin"><span class="icon fl-bigmug-line-login12 pr-1"></span>Iniciar sessão</a></li><li class="d-xl-none rd-nav-item"><a class="rd-nav-link link-icon link-icon-left link-classic" href="/signup"><span class="icon fl-bigmug-line-user144 pl-1 pr-1"></span>Cadastrar-se</a></li>                                </ul>
-                <div class="rd-navbar-main-element">
-                  <ul class="list-inline list-inline-bordered">
-                    <li class="rd-navbar-search-wrap">
-                      <!-- RD Navbar Search-->
-                      <div class="rd-navbar-search">
-                        <button class="d-none d-sm-block rd-navbar-search-toggle" data-rd-navbar-toggle=".rd-navbar-search"><span id="headernavSearchButton" style="display:none"></span></button>
-                        <form class="rd-search" action="/search.php" method="get">
-                          <div class="form-wrap">
-                            <label class="form-label" for="rd-navbar-search-form-input">Pesquisar Jogador / Clube...</label>
-                            <input class="rd-navbar-search-form-input form-input" id="rd-navbar-search-form-input" type="text" name="q" autocomplete="off" style="color:#fff" />
-                          </div>
-                          <button class="rd-search-form-submit fl-budicons-launch-search81" type="submit"></button>
-                        </form>
-                      </div>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </nav>
-        </div>
-      </header>
 
-    
-<section class="section section-md bg-gray-100 pt-2 pb-2">
-  <div class="container">
-    <div class="row row-30">
-        <div class="col-lg-12">          <article class="heading-component">
-            <div class="heading-component-inner">
-              <h1 class="h5 heading-component-title">Arena Corinthians</h1>
-              <a class="button button-xs button-secondary border border-dark" href="/signup" data-toggle="tooltip" data-placement="left" title="Registe-se e contribua para o Soccer Wiki">Contribuir</a>            </div>
-          </article>
-                    <div class="player-info-corporate">
-          <div class="player-info-main">
-          <div class="row"><div class="col-md-6 col-12"><div class="player-img text-center mb-3"><img class="lozad img-fluid img-thumbnail" src="https://cdn.soccerwiki.org/images/spacer.gif" data-src="https://cdn.soccerwiki.org/images/stadium/3369.png" alt="Arena Corinthians footall stadium" width="320" style="transform:scale(1.00)" /></div></div><div class="col-md-6 col-12"><p class="player-info-subtitle mb-2"><span class="text-dark">Capacidade:</span> 48,000</p><p class="player-info-subtitle mb-2"><span class="text-dark">Cidade:</span> São Paulo</p><p class="player-info-subtitle mb-2"><span class="text-dark">País:</span> <a href="/country.php?countryId=BRA" data-toggle="tooltip" title="Brasil"><span class="flag-icon flag-icon-br" style="box-shadow: 0 0 2px #000;font-size:1rem;"></span></a> <a class="text-underline" href="/country.php?countryId=BRA">Brasil</a></p><p class="player-info-subtitle mb-2"><span class="text-dark">Clube:</span> <a class="text-underline" href="/squad.php?clubid=290">Corinthians</a></p><p class="player-info-subtitle mb-2"><span class="text-dark">Internacional:</span> Desconhecido</p></div>            </div>
-          </div>
-        </div>
-      </div>
-          </div>
-  </div>
-</section>
+header {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
 
+h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
 
-      <!-- Page Footer-->
-      <footer class="section footer-classic footer-classic-dark context-dark">
-        <div class="footer-classic-main">
-          <div class="container">
-            <div class="row row-50">
-              <div class="col-lg-5 text-center text-sm-left">
-                <article class="unit unit-sm-horizontal unit-middle justify-content-center justify-content-sm-start footer-classic-info">
-                  <div class="unit-left"><a href="/"><img class="lozad" data-src="/images/soccer-wiki-logo90x90.png" width="90" height="90" alt="Soccer Wiki: para os fãs, dos fãs" /></a>
-                  </div>
-                  <div class="unit-body">
-                    <p class="font-weight-bold text-white">Soccer Wiki: para os fãs, dos fãs</p>
-                  </div>
-                </article>
+main {
+  padding: 20px;
+}
 
-                <article class="unit unit-sm-horizontal unit-middle justify-content-center justify-content-sm-start footer-classic-info">
-                  <div class="unit-body mt-2">
-                    <p class="text-light text-justify">Bem-vindo ao Soccer Wiki , um estudo de futebol livre, orientação feita para os fãs, dos fãs. Soccer Wiki é uma base de dados colaborativa e qualquer pessoa que pode criar e editar dados. Esta base de dados dirigida a comunidade contém informações sobre jogadores, clubes, estádios, gestores, árbitros, ligas e outros dados relacionados com o mundo do futebol.</p>                  </div>
-                </article>
+.intro {
+  text-align: center;
+  margin-bottom: 20px;
+}
 
-                <ul class="list-inline list-inline-bordered list-inline-bordered-lg">
-                  <li>
-                    <div class="unit unit-horizontal unit-middle">
-                      <div class="unit-left">
-                        <svg class="svg-color-primary svg-sizing-35" x="0px" y="0px" width="72px" height="72px" viewbox="0 0 72 72">
-                          <path d="M36.002,0c-0.41,0-0.701,0.184-0.931,0.332c-0.23,0.149-0.4,0.303-0.4,0.303l-9.251,8.18H11.58 c-1.236,0-1.99,0.702-2.318,1.358c-0.329,0.658-0.326,1.3-0.326,1.3v11.928l-8.962,7.936V66c0,0.015-0.038,1.479,0.694,2.972 C1.402,70.471,3.006,72,5.973,72h30.03h30.022c2.967,0,4.571-1.53,5.306-3.028c0.736-1.499,0.702-2.985,0.702-2.985V31.338 l-8.964-7.936V11.475c0,0,0.004-0.643-0.324-1.3c-0.329-0.658-1.092-1.358-2.328-1.358H46.575l-9.251-8.18 c0,0-0.161-0.154-0.391-0.303C36.703,0.184,36.412,0,36.002,0z M36.002,3.325c0.49,0,0.665,0.184,0.665,0.184l6,5.306h-6.665 h-6.665l6-5.306C35.337,3.51,35.512,3.325,36.002,3.325z M12.081,11.977h23.92H59.92v9.754v2.121v14.816L48.511,48.762 l-10.078-8.911c0,0-0.307-0.279-0.747-0.548s-1.022-0.562-1.684-0.562c-0.662,0-1.245,0.292-1.686,0.562 c-0.439,0.268-0.747,0.548-0.747,0.548l-10.078,8.911L12.082,38.668V23.852v-2.121v-9.754H12.081z M8.934,26.867v9.015 l-5.091-4.507L8.934,26.867z M63.068,26.867l5.091,4.509l-5.091,4.507V26.867z M69.031,34.44v31.559 c0,0.328-0.103,0.52-0.162,0.771L50.685,50.684L69.031,34.44z M2.971,34.448l18.348,16.235L3.133,66.77 c-0.059-0.251-0.162-0.439-0.162-0.769C2.971,66.001,2.971,34.448,2.971,34.448z M36.002,41.956c0.264,0,0.437,0.057,0.546,0.104 c0.108,0.047,0.119,0.059,0.119,0.059l30.147,26.675c-0.3,0.054-0.79,0.207-0.79,0.207H36.002H5.98H5.972 c-0.003,0-0.488-0.154-0.784-0.207l30.149-26.675c0,0,0.002-0.011,0.109-0.059C35.555,42.013,35.738,41.956,36.002,41.956z"></path>
-                        </svg>
-                      </div>
-                      <div class="unit-body">
-                      <div class="h6 font-weight-bold text-white text-uppercase">Fale Conosco</div><a class="link" href="javascript:location='mailto:\u0063\u006f\u006e\u0074\u0061\u0063\u0074\u0075\u0073\u0040\u0073\u006f\u0063\u0063\u0065\u0072\u0077\u0069\u006b\u0069\u002e\u006f\u0072\u0067';void 0"><script type="text/javascript">document.write('\u0063\u006f\u006e\u0074\u0061\u0063\u0074\u0075\u0073\u0040\u0073\u006f\u0063\u0063\u0065\u0072\u0077\u0069\u006b\u0069\u002e\u006f\u0072\u0067')</script></a>
-                      </div>
-                    </div>
-                  </li>
-                </ul>
-                <div class="group-md group-middle">
-                  <div class="group-item">
-                    <ul class="list-inline list-inline-xs">
-                      <li><a class="icon fa fa-facebook-official text-white fa-2x" href="https://www.facebook.com/InvinciblesGames" target="_blank" data-toggle="tooltip" title="Facebook: @InvinciblesGames" data-google-interstitial="false"></a></li>
-                      <li><a class="icon fa fa-twitter text-white fa-2x" href="https://twitter.com/InvncblsGames" target="_blank" data-toggle="tooltip" title="X (Twitter): @InvncblsGames" data-google-interstitial="false"></a></li>
-                      <li><a class="icon fa fa-instagram text-white fa-2x" href="https://www.instagram.com/invinciblesgames" target="_blank" data-toggle="tooltip" title="Instagram: @invinciblesgames" data-google-interstitial="false"></a></li>
-                    </ul>
-                  </div><a class="button button-sm button-gray-outline" href="/signup" data-google-interstitial="false">Contribuir</a>
-                </div>
-              </div>
-              <div class="col-lg-7">
-                <div class="h6 font-weight-bold text-white text-uppercase">NOVO(S) Jogadores</div><div class="divider-small divider-secondary"></div><div class="row row-20"><div class="col-sm-6"><article class="post-classic"><div class="post-classic-aside"><div class="player-info-figure"><div class="squad-number-footer"><span data-toggle="tooltip" title="Numeração do Plantel: 22">22</span></div><a class="post-classic-figure" href="/player.php?pid=153923"><img class="lozad bg-light rounded" data-src="https://cdn.soccerwiki.org/images/player/missing_player.jpg" alt="Oscar Faulds" width="87" height="87"/></a></div></div><div class="post-classic-main"><p class="post-classic-title"><a href="/player.php?pid=153923">Oscar Faulds</a></p><div class="badge badge-primary mt-0" data-toggle="tooltip" title="Avaliação">67</div><p class="position-footer mt-0 mb-0"><span data-toggle="tooltip" title="Avançado Central">A(C)</span></p><div class="post-classic-time" data-toggle="tooltip" title="Adicionado Dia: October 30 2024"><span class="icon mdi mdi-clock"></span><time datetime="2019">Oct 30 2024</time></div></div></article></div><div class="col-sm-6"><article class="post-classic"><div class="post-classic-aside"><div class="player-info-figure"><div class="squad-number-footer"><span data-toggle="tooltip" title="Numeração do Plantel: 11">11</span></div><a class="post-classic-figure" href="/player.php?pid=153922"><img class="lozad bg-light rounded" data-src="https://cdn.soccerwiki.org/images/player/missing_player.jpg" alt="Jonathan Mcnamara" width="87" height="87"/></a></div></div><div class="post-classic-main"><p class="post-classic-title"><a href="/player.php?pid=153922">Jonathan Mcnamara</a></p><div class="badge badge-primary mt-0" data-toggle="tooltip" title="Avaliação">68</div><p class="position-footer mt-0 mb-0"><span data-toggle="tooltip" title="Attacking Midfielder Direito Esquerdo Central, Avançado Direito Esquerdo Central">MA,A(DEC)</span></p><div class="post-classic-time" data-toggle="tooltip" title="Adicionado Dia: October 30 2024"><span class="icon mdi mdi-clock"></span><time datetime="2019">Oct 30 2024</time></div></div></article></div><div class="col-sm-6"><article class="post-classic"><div class="post-classic-aside"><div class="player-info-figure"><div class="squad-number-footer"><span data-toggle="tooltip" title="Numeração do Plantel: 1">1</span></div><a class="post-classic-figure" href="/player.php?pid=153921"><img class="lozad bg-light rounded" data-src="https://cdn.soccerwiki.org/images/player/missing_player.jpg" alt="William Tonning" width="87" height="87"/></a></div></div><div class="post-classic-main"><p class="post-classic-title"><a href="/player.php?pid=153921">William Tonning</a></p><div class="badge badge-primary mt-0" data-toggle="tooltip" title="Avaliação">67</div><p class="position-footer mt-0 mb-0"><span data-toggle="tooltip" title="Goleiro">G</span></p><div class="post-classic-time" data-toggle="tooltip" title="Adicionado Dia: October 30 2024"><span class="icon mdi mdi-clock"></span><time datetime="2019">Oct 30 2024</time></div></div></article></div><div class="col-sm-6"><article class="post-classic"><div class="post-classic-aside"><div class="player-info-figure"><div class="squad-number-footer"><span data-toggle="tooltip" title="Numeração do Plantel: 10">10</span></div><a class="post-classic-figure" href="/player.php?pid=153920"><img class="lozad bg-light rounded" data-src="https://cdn.soccerwiki.org/images/player/missing_player.jpg" alt="Sebastian Barton-Ginger" width="87" height="87"/></a></div></div><div class="post-classic-main"><p class="post-classic-title"><a href="/player.php?pid=153920">Sebastian Barton-Ginger</a></p><div class="badge badge-primary mt-0" data-toggle="tooltip" title="Avaliação">67</div><p class="position-footer mt-0 mb-0"><span data-toggle="tooltip" title="Attacking Midfielder Direito Esquerdo Central, Avançado Direito Esquerdo">MA(DEC),A(DE)</span></p><div class="post-classic-time" data-toggle="tooltip" title="Adicionado Dia: October 30 2024"><span class="icon mdi mdi-clock"></span><time datetime="2019">Oct 30 2024</time></div></div></article></div><div class="col-sm-6"><article class="post-classic"><div class="post-classic-aside"><div class="player-info-figure"><div class="squad-number-footer"><span data-toggle="tooltip" title="Desconhecido: Numeração do Plantel">?</span></div><a class="post-classic-figure" href="/player.php?pid=153919"><img class="lozad bg-light rounded" data-src="https://cdn.soccerwiki.org/images/player/missing_player.jpg" alt="Matt Oliver" width="87" height="87"/></a></div></div><div class="post-classic-main"><p class="post-classic-title"><a href="/player.php?pid=153919">Matt Oliver</a></p><div class="badge badge-primary mt-0" data-toggle="tooltip" title="Avaliação">65</div><p class="position-footer mt-0 mb-0"><span data-toggle="tooltip" title="Goleiro">G</span></p><div class="post-classic-time" data-toggle="tooltip" title="Adicionado Dia: October 30 2024"><span class="icon mdi mdi-clock"></span><time datetime="2019">Oct 30 2024</time></div></div></article></div><div class="col-sm-6"><article class="post-classic"><div class="post-classic-aside"><div class="player-info-figure"><div class="squad-number-footer"><span data-toggle="tooltip" title="Numeração do Plantel: 17">17</span></div><a class="post-classic-figure" href="/player.php?pid=153918"><img class="lozad bg-light rounded" data-src="https://cdn.soccerwiki.org/images/player/missing_player.jpg" alt="Matthew Ellis" width="87" height="87"/></a></div></div><div class="post-classic-main"><p class="post-classic-title"><a href="/player.php?pid=153918">Matthew Ellis</a></p><div class="badge badge-primary mt-0" data-toggle="tooltip" title="Avaliação">67</div><p class="position-footer mt-0 mb-0"><span data-toggle="tooltip" title="Attacking Midfielder Direito Esquerdo Central">MA(DEC)</span></p><div class="post-classic-time" data-toggle="tooltip" title="Adicionado Dia: October 30 2024"><span class="icon mdi mdi-clock"></span><time datetime="2019">Oct 30 2024</time></div></div></article></div></div><div class="mt-4 divider-small divider-secondary"></div>                <div class="layout-justify">
-                    <ul class="nav-light-list mt-3">
-                        <li><a class="text-uppercase font-weight-bold text-white" href="/player.php">Jogadores</a></li>
-                        <li><a class="text-uppercase font-weight-bold text-white" href="/squad.php">Clubes</a></li>
-                        <li><a class="text-uppercase font-weight-bold text-white" href="/league.php">Copas</a></li>
-                        <li><a class="text-uppercase font-weight-bold text-white" href="/league.php">Ligas</a></li>
-                        <li><a class="text-uppercase font-weight-bold text-white" href="/country.php">Países</a></li>
-                        <li><a class="text-uppercase font-weight-bold text-white" href="/changes.php">Alterações Recentes</a></liclass=>
-                        <li><a class="text-uppercase font-weight-bold text-white" href="/vote.php">Vote para alterações de dados</a></li>
-                        <li><a class="text-uppercase font-weight-bold text-white" href="/add.php">Adicionar Mudança de Dados</a></li>
-                    </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="footer-classic-aside footer-classic-darken">
-          <div class="container">
-            <div class="layout-justify">
-              <!-- Rights-->
-                            <p class="rights pb-5"><span>&nbsp;&copy;&nbsp;</span><span><a style="text-decoration:none !important" href="https://invinciblesstudio.com" target="_blank">Invincibles Studio Ltd</a></span><span>.&nbsp;</span></p>
-              <nav class="nav-minimal pb-5">
-                <ul class="nav-minimal-list">
-                    <li><a href="/">Início</a></li>
-                    <li><a href="/contact.php">Fale Conosco</a></li>
-                    <li><a target="_blank" href="https://pt-br.soccermanager.com/terms/">Termos de Uso</a></li>
-                    <li><a target="_blank" href="https://pt-br.soccermanager.com/privacy/">Política de Privacidade</a></li>
-                    <li><a href="/help.php">Ajuda</a></li>
-                    <li><button type="button" class="btn btn-sm btn-link text-secondary text-uppercase border-0 pt-0 js-custom-button-language-selector" style="cursor:pointer;font-family:'Kanit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;font-size: 12px;line-height: 1.3;font-weight: 500;letter-spacing: 0.05em;margin-top:2px;">Idioma</button></li>
-                </ul>
-              </nav>
-            </div>
-          </div>
-        </div>
-      </footer>
-    </div>
+.stadium-img {
+  width: 100%;
+  height: auto;
+  max-width: 600px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+}
 
-    <!-- Modal --><div class="modal fade" id="modalLanguageSelector" tabindex="-1" role="dialog" style="z-index:1100;"><div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-scrollable modal-dialog-scrollable" role="document"><div class="modal-content"><div class="modal-header">Idioma<button class="close" type="button" data-dismiss="modal" aria-label="Fechar"><span aria-hidden="true">&times;</span></button></div><div class="modal-body"><p class="h3 font-weight-bold">Escolha o Idioma</p><p class="h6 font-weight-bold">Português (Brasil)</p><div class="row"><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://en.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">English</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://es.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Español (España)</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://es-ar.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Español (Latinoamérica)</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://fr.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Français</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://it.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Italiano</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://de.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Deutsch</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://pt.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Português</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://nl.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Nederlands</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://sv.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Svenska</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://id-id.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Indonesian</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://ms-my.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Malay</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://ro-ro.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Română</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://tr-tr.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Türkçe</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://sq-al.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Shqip</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://da-dk.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Dansk</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://pl-pl.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Polski</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://el-gr.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">ελληνικά</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://no-no.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Nork</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://bs-ba.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Bosanski</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://bg-bg.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">български</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://hr-hr.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Hrvatski</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://sr-rs.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">српски</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://sl-si.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">slovenščina</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://cs-cz.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">čeština</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://hu-hu.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">magyar</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://fi-fi.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Suo̯mi</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://sk-sk.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">slovenčina</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://ru-ru.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">русский</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://uk-ua.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">украї́нська</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://ar.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">العربية</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://ja.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">日本語</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://ko.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">한국어</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://th.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">ภาษาไทย</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://zh.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">中文 (简体)</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://zh-tw.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">中文 (繁體)</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://vi.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Tiếng Việt</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://fil.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Filipino</a></div><div class="col-6 col-md-4 col-lg-3 mb-2"><a href="https://he.soccerwiki.org/stadium.php?stadiumdid=3369" class="button button-xs button-default w-100">Īvrīt</a></div></div></div><div class="modal-footer mb-4 mb-md-0"><button type="button" class="btn btn-sm btn-secondary btn-block w-100" data-dismiss="modal">Fechar</button></div></div></div></div>
-        <script data-cfasync="false" src="/js/core-select2-update.min.js"></script>
-    <script defer data-cfasync="false" src="/js/script.min.js"></script>
+.history, .titles {
+  margin-bottom: 20px;
+}
 
-    
-    	<script defer data-cfasync="false" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
-	<script defer data-cfasync="false" src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.9.0/lozad.min.js"></script>
-	<script defer data-cfasync="false" src="https://cdn.jsdelivr.net/npm/intersection-observer@0.12.2/intersection-observer.min.js"></script>
-    <script defer data-cfasync="false" src="/js/select2-tab-fix.min.js"></script>
-    <script defer data-cfasync="false" src="/js/wiki-1696595306.min.js"></script>
-    	<script defer data-cfasync="false" type="text/javascript">
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', doOnDocumentLoaded);
-    } else {
-        doOnDocumentLoaded();
-    }
-    function doOnDocumentLoaded() {        
-        toastr.options = {
-            "progressBar": true,
-            "timeOut": "1500"
-        }
-        // Initialize library to lazy load images
-        var observer = lozad('.lozad', {
-            threshold: 0.1,
-            load: function(el) {
-                el.src = el.getAttribute("data-src");
-            }
-        });
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
 
-        // Picture observer
-        // with default `load` method
-        var pictureObserver = lozad('.lozad-picture', {
-            threshold: 0.1
-        });
+ul {
+  list-style-type: none;
+}
 
-        observer.observe();
-        pictureObserver.observe();
+ul li {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  margin-bottom: 5px;
+  text-align: center;
+}
 
-        // Hide broken images
-        document.querySelectorAll('img').forEach(function(img) {
-  	        img.onerror = function() { this.style.display='none'; };
-        })        
-    }
-    </script>
-
-    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css"></noscript><script defer src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
-    <script defer data-cfasync="false">
-    window.addEventListener("load", function(){
-    window.cookieconsent.initialise({
-    "palette": {
-        "popup": {
-        "background": "#edeff5",
-        "text": "#838391"
-        },
-        "button": {
-        "background": "#4b81e8"
-        }
-    },
-    "content": {
-    "message": "Este website usa cookies. Veja as nossas políticas de cookies",
-        "dismiss": "Razoável",
-        "link": "Aprenda mais",
-        "href": "https://pt-br.soccermanager.com/privacy/"
-    }
-    })});
-    </script>  </body>
-</html>
+footer {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
